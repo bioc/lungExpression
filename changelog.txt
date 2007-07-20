@@ -1,0 +1,1 @@
+0.0.4 updated the varMetadata for the cancer classification in the three studies
