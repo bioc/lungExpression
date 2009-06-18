@@ -1,5 +1,5 @@
 Package: lungExpression
-Version: 0.0.6
+Version: 0.0.7
 Date: 2006-12-31
 Title: ExpressionSets for Parmigiani et al., 2004 Clinical Cancer Research paper
 Author: Robert Scharpf <rscharpf@jhsph.edu>, Simens Zhong <zhong@mts.jhu.edu>, Giovanni Parmigiani <gp@jhu.edu>
@@ -9,5 +9,5 @@ Suggests:
 Description: Data from three large lung cancer studies provided as ExpressionSets
 LazyLoad: yes
 Collate: 
-biocViews:ExperimentData
+biocViews:ExperimentData, Cancer
 License: GPL version 2 or newer
